@@ -1,5 +1,4 @@
 # SwiftUIWeather
-## Coding challenge - Toyota
 
 iOS app for checking weather of current city with functionality to search and display temperature (in farhenheit) of any city in the world. Uses OpenWeatherMapAPI, SwiftUI.
 
